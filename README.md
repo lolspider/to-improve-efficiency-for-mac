@@ -15,7 +15,9 @@
 * Sublime Text
 * Youdao 
 ### Sizeup
-窗口调整工具
+窗口调整工具，付费
+### Rectangle
+窗口调整工具，免费
 ### Bartender3 
 菜单栏隐藏工具
 ### CleanMyMac
@@ -24,3 +26,5 @@
 全局代理
 ### Core Tunnel
 SSH proxy
+### 超级右键iRightMouse
+一键隐藏桌面文件
