@@ -14,6 +14,9 @@
 * Show Desktop
 * Sublime Text
 * Youdao 
+* Div — a simple Alfred window manager
+* CodeVar
+* Colors
 ### Sizeup
 窗口调整工具，付费
 ### Rectangle
