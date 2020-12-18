@@ -17,6 +17,9 @@
 * Div — a simple Alfred window manager
 * CodeVar
 * Colors
+
+### [Clipy](https://github.com/Clipy/Clipy)
+历史粘贴板
 ### Sizeup
 窗口调整工具，付费
 ### Rectangle
