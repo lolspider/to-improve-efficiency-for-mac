@@ -19,7 +19,7 @@
 * Colors
 
 ### [Clipy](https://github.com/Clipy/Clipy)
-历史粘贴板
+历史粘贴板 也可以使用Alfred自带的Clipboard History
 ### Sizeup
 窗口调整工具，付费
 ### Rectangle
@@ -34,3 +34,6 @@
 SSH proxy
 ### 超级右键iRightMouse
 一键隐藏桌面文件
+### Parallel Desktop
+### 极简时钟
+Fliqlo
