@@ -40,3 +40,5 @@ Fliqlo
 ### 笔记
 Notion(功能强大）
 Typora + Github
+### Save Battery
+Turbo Boost Switcher 
