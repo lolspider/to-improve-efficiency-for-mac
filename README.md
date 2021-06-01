@@ -37,3 +37,6 @@ SSH proxy
 ### Parallel Desktop
 ### 极简时钟
 Fliqlo
+### 笔记
+Notion(功能强大）
+Typora + Github
