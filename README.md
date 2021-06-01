@@ -20,6 +20,10 @@
 
 ### [Clipy](https://github.com/Clipy/Clipy)
 历史粘贴板 也可以使用Alfred自带的Clipboard History
+### Manico
+设置程序快捷键，非常方便，可以快速打开、切换应用
+### Moom
+窗口调整工具
 ### Sizeup
 窗口调整工具，付费
 ### Rectangle
@@ -35,8 +39,8 @@ SSH proxy
 ### 超级右键iRightMouse
 一键隐藏桌面文件
 ### Parallel Desktop
-### 极简时钟
-Fliqlo
+### Fliqlo
+极简时钟
 ### 笔记
 Notion(功能强大）
 Typora + Github
