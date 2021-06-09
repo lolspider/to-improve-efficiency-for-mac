@@ -48,3 +48,5 @@ Typora + Github
 Turbo Boost Switcher 
 ### VPN Client
 TunnelBlick
+### 状态栏系统统计信息
+iStat 需要付费
