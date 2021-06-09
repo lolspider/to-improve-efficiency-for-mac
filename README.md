@@ -37,7 +37,7 @@
 ### Core Tunnel
 SSH proxy
 ### 超级右键iRightMouse
-一键隐藏桌面文件
+一键隐藏桌面文件,右键功能强大，需要付费
 ### Parallel Desktop
 ### Fliqlo
 极简时钟
