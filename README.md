@@ -17,6 +17,7 @@
 * Div — a simple Alfred window manager
 * CodeVar
 * Colors
+* https://github.com/autosquid/keyboardvolume/blob/master/keyboardvolume/KeyboardVolume.alfredworkflow 控制音量
 
 ### [Clipy](https://github.com/Clipy/Clipy)
 历史粘贴板 也可以使用Alfred自带的Clipboard History
