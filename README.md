@@ -52,3 +52,5 @@ Turbo Boost Switcher
 TunnelBlick
 ### 状态栏系统统计信息
 iStat 需要付费
+### itsycal
+ Tiny calendar for your Mac's menu bar
